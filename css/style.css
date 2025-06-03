@@ -55,7 +55,7 @@ img{
     position: absolute;
     bottom: 10px;
     justify-content: center;
-    left: 50%;
+    left: 0%;
     
 }
 .redes{
@@ -63,11 +63,7 @@ img{
     height: 35px;
 
 }
-main{
-    height: 110%;
-    display: flex;
-    color: white;
-}
+
 .modal{
     position: fixed;
     left: 30%;
